@@ -8,3 +8,5 @@ ama a su perro Doky
 nacion en Colombia.
 
 en carro se ve que era alto pero en realidad no era tan alto.
+
+hoy estoy aprendiendo Git
